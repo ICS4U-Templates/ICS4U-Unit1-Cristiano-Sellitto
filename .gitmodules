@@ -16,3 +16,27 @@
 [submodule "Unit1-03/ICS4U-Unit1-03-Java"]
 	path = Unit1-03/ICS4U-Unit1-03-Java
 	url = https://github.com/CristianoSellitto/ICS4U-Unit1-03-Java.git
+[submodule "Unit1-04/ICS4U-Unit1-04-Typescript"]
+	path = Unit1-04/ICS4U-Unit1-04-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-04-Typescript.git
+[submodule "Unit1-04/ICS4U-Unit1-04-Java"]
+	path = Unit1-04/ICS4U-Unit1-04-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-04-Java.git
+[submodule "Unit1-05/ICS4U-Unit1-05-Typescript"]
+	path = Unit1-05/ICS4U-Unit1-05-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-05-Typescript.git
+[submodule "Unit1-05/ICS4U-Unit1-05-Java"]
+	path = Unit1-05/ICS4U-Unit1-05-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-05-Java.git
+[submodule "Unit1-06/ICS4U-Unit1-06-Typescript"]
+	path = Unit1-06/ICS4U-Unit1-06-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-06-Typescript.git
+[submodule "Unit1-06/ICS4U-Unit1-06-Java"]
+	path = Unit1-06/ICS4U-Unit1-06-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-06-Java.git
+[submodule "Unit1-07/ICS4U-Unit1-07-Typescript"]
+	path = Unit1-07/ICS4U-Unit1-07-Typescript
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-07-Typescript.git
+[submodule "Unit1-07/ICS4U-Unit1-07-Java"]
+	path = Unit1-07/ICS4U-Unit1-07-Java
+	url = https://github.com/CristianoSellitto/ICS4U-Unit1-07-Java.git
